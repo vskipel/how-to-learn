@@ -1,0 +1,9 @@
+
+.two-columns__paragraph {
+  list-style: none;
+  padding-bottom: 30px;
+}
+
+.two-columns__paragraph:last-child {
+  padding-bottom: 0;
+}
