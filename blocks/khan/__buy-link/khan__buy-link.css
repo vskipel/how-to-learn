@@ -5,6 +5,7 @@
   color: #2f80ed;
   text-decoration: none;
   padding-left: 48px;
+  align-self: flex-start;
 }
 
 .khan__buy-link:hover {
